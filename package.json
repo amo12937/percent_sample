@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babelify": "^7.3.0",
-    "browser-sync": "^2.18.11",
-    "browserify": "^14.3.0",
+    "babelify": "^6.4.0",
+    "browser-sync": "^2.18.2",
+    "browserify": "^13.1.1",
     "del": "^2.2.2",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
     "gulp-autoprefixer": "^4.0.0",
